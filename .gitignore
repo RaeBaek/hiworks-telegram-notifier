@@ -1,0 +1,19 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+
+.dev.vars
+.dev.vars.*
+
+# Dependencies
+node_modules/
+
+# Cloudflare
+.wrangler/
+
+# System files
+.DS_Store
+
+# Logs
+*.log
