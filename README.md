@@ -138,7 +138,7 @@ Hiworks V2에서는 사용자 정의 다중 선택 필드가 `multi_selection` �
     },
     {
       "component_name": "프로젝트",
-      "value": ["국내", "SE10", "공통"]
+      "value": ["국내", "튀르키예", "공통"]
     }
   ]
 }
